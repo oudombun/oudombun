@@ -3,9 +3,9 @@
 </p>
 <hr>
 
- <h1 align="center">Hi 👋, I'm <a href="" target="blank">
-         Oudom</a>
-      </h1>
+
+  <h1 align="center">Hi <img src="./assets/Hi.gif" width="30px">, I'm <a href="https://oudombun.com" target="_blank">
+         Oudom</a></h1>
 
 <h3 align="center">A passionate Mobile App developer</h3>
 
@@ -35,7 +35,7 @@
         <p>📫 How to reach me <strong><a href="mailto:oudombun262@gmail.com">oudombun262@gmail.com</a></strong></p>
       </li>
       <li>
-        <p>📄 Know about my experiences <a href="oudombun.com" target="blank">oudombun.com</a></p>
+        <p>📄 Know about my experiences <a href="https://oudombun.com" target="blank">oudombun.com</a></p>
         <br>
         <h3 align="center"> <img src="./assets/giphy(1).gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
       </li>
