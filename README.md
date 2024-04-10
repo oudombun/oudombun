@@ -19,13 +19,6 @@
       <li>
         <p>🌱 I’m currently Working on Mobile App(Android/Flutter)</p>
       </li>
-      
-      <!-- <li>
-        <p>🌱 I’m currently learning Swift &amp;&amp; SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a></p>
-      </li> -->
-      <!-- <li>
-        <p>📝 I regularly write articles on <a href="https://dev.to/100rabhcsmc" target="_blank" rel="noopener">https://dev.to/100rabhcsmc</a></p>
-      </li> -->
       <li>
         <p>💬 Ask me about <strong>Android &amp; Flutter</strong></p>
       </li>
