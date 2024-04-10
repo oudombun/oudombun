@@ -19,9 +19,7 @@
       <li>
         <p>🌱 I’m currently Working on Mobile App(Android/Flutter)</p>
       </li>
-      <li>
-        <p>🤝 I’m available for freelancing.</p>
-      </li>
+      
       <!-- <li>
         <p>🌱 I’m currently learning Swift &amp;&amp; SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a></p>
       </li> -->
