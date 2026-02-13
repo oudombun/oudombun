@@ -26,7 +26,7 @@
         <p>📫 How to reach me <strong><a href="mailto:oudombun262@gmail.com">oudombun262@gmail.com</a></strong></p>
       </li>
       <li>
-        <p>📄 Know about my experiences <a href="https://oudombun.com" target="blank">oudombun.com</a></p>
+        <p>📄 Know about my experiences <a href="https://monyoudom.com" target="blank">monyoudom.com</a></p>
         <br>
         <h3 align="center"> <img src="./assets/giphy(1).gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
       </li>
