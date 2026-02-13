@@ -13,9 +13,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="./assets/me.gif">
   </a>
   <ul>
-      <li>
+      <!-- <li>
         <p>🔭 I’m currently working in <a href="https://www.canadiabank.com.kh" target="blank">Canadia Bank PLC</a></p>
-      </li>
+      </li> -->
       <li>
         <p>🌱 I’m currently Working on Mobile App(Android/Flutter)</p>
       </li>
